@@ -1,0 +1,45 @@
+export const en = {
+  title: "SMK Daily Check-in",
+  logout: "Log out",
+
+  loginTitle: "SMK Login",
+  loginSubtitle: "Sign in to your daily tracker.",
+  login: "Log in",
+  signup: "Create account",
+  email: "Email",
+  password: "Password",
+  signupSuccess: "Check your email for confirmation!",
+  authRequired: "You must be logged in.",
+
+  location: "Location",
+  fetchWeather: "Get weather",
+  weatherNow: "Current weather",
+  weatherLoading: "Getting weather...",
+  weatherError: "Could not fetch weather for that location.",
+  weatherLocationHint: "Enter a valid location first.",
+  unknownWeather: "Unknown",
+
+  energy: "Energy 1-10",
+  mood: "Mood 1-10",
+  headache: "Headache 0-10",
+  headacheType: "Headache type",
+  diet: "Main diet",
+  water: "Water L",
+  movement: "Movement min",
+  sleep: "Sleep hours",
+  notes: "Notes",
+
+  save: "Save entry",
+  saving: "Saving...",
+  saveSuccess: "Entry saved successfully!",
+  saveError: "Error saving entry",
+  loadError: "Could not load entries.",
+
+  entriesTitle: "Your entries ({count})",
+  noEntries: "No entries yet. Submit your first one above.",
+  energyLabel: "Energy",
+  moodLabel: "Mood",
+  headacheLabel: "Headache",
+
+  noValue: "—",
+}

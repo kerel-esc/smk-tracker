@@ -1,0 +1,45 @@
+export const pl = {
+  title: "SMK Codzienny Check-in",
+  logout: "Wyloguj",
+
+  loginTitle: "Logowanie SMK",
+  loginSubtitle: "Zaloguj się do swojego dziennika.",
+  login: "Zaloguj się",
+  signup: "Utwórz konto",
+  email: "Email",
+  password: "Hasło",
+  signupSuccess: "Sprawdź email, aby potwierdzić konto!",
+  authRequired: "Musisz być zalogowany.",
+
+  location: "Lokalizacja",
+  fetchWeather: "Pobierz pogodę",
+  weatherNow: "Aktualna pogoda",
+  weatherLoading: "Pobieranie pogody...",
+  weatherError: "Nie udało się pobrać pogody dla tej lokalizacji.",
+  weatherLocationHint: "Najpierw wpisz prawidłową lokalizację.",
+  unknownWeather: "Nieznana",
+
+  energy: "Energia 1-10",
+  mood: "Nastrój 1-10",
+  headache: "Ból głowy 0-10",
+  headacheType: "Rodzaj bólu głowy",
+  diet: "Główna dieta",
+  water: "Woda L",
+  movement: "Ruch min",
+  sleep: "Sen godziny",
+  notes: "Notatki",
+
+  save: "Zapisz wpis",
+  saving: "Zapisywanie...",
+  saveSuccess: "Wpis zapisano pomyślnie!",
+  saveError: "Błąd podczas zapisywania wpisu",
+  loadError: "Nie udało się wczytać wpisów.",
+
+  entriesTitle: "Twoje wpisy ({count})",
+  noEntries: "Brak wpisów. Wypełnij pierwszy powyżej.",
+  energyLabel: "Energia",
+  moodLabel: "Nastrój",
+  headacheLabel: "Ból głowy",
+
+  noValue: "—",
+}
